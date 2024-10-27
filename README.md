@@ -1,6 +1,6 @@
 ### CS472-Homework-02-CSS
 #### Exercise 01
-Create a block elemnent `<div>`, that acts as a container, and contains one child inline element `<span>`.
+Create a block element `<div>`, that acts as a container, and contains one child inline element `<span>`.
 * Style the `<div>` block element with border, and height;
 * Center the `<span>` child inline element horizontally and vertically within the `<div>` block element
 * Style the `<div>` block element with width
